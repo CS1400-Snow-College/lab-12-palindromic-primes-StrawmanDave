@@ -1,0 +1,15 @@
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/obj/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave.GeneratedMSBuildEditorConfig.editorconfig
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/obj/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave.AssemblyInfoInputs.cache
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/obj/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave.AssemblyInfo.cs
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/obj/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave.csproj.CoreCompileInputs.cache
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/obj/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave.sourcelink.json
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/bin/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/bin/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave.deps.json
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/bin/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave.runtimeconfig.json
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/bin/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/bin/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/obj/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/obj/Debug/net8.0/refint/lab-12-palindromic-primes-StrawmanDave.dll
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/obj/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave.pdb
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/obj/Debug/net8.0/lab-12-palindromic-primes-StrawmanDave.genruntimeconfig.cache
+/home/david/david-progamming-1400/lab-12-palindromic-primes-StrawmanDave/obj/Debug/net8.0/ref/lab-12-palindromic-primes-StrawmanDave.dll
